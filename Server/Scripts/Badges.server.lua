@@ -45,7 +45,7 @@ local function iterPageItems(pages)
 end
 
 for place in iterPageItems(AssetService:GetGamePlacesAsync()) do
-	if not place.Name:lower():find("devtest") and not place.Name:find("Super Nostalgia Zone") then
+	if not place.Name:lower():find("devtest") and not place.Name:find("SNZ-2010") then
 		placeCount = placeCount + 1
 	end
 end

@@ -1,4 +1,4 @@
-# Super-Nostalgia-Zone
+# SNZ-2010
 Here it is, at long last! This repository contains the code that attempts to emulate the experience of Roblox in 2008 from the modern day engine. It also comes bundled with the code I wrote to bake and upload the bevel meshes I have in the game.
 
 I wrote a lot of the code for this between 2017 and 2019, prior to my introduction to more modern development conventions. It's not the cleanest code out there, but its serviceable.

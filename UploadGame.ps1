@@ -1,4 +1,4 @@
-$confirmation = Read-Host "Are you sure you want to update Super Nostalgia Zone? (y/n)"
+$confirmation = Read-Host "Are you sure you want to update SNZ-2010? (y/n)"
 
 if ($confirmation -eq 'y') 
 {
