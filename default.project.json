@@ -5,6 +5,23 @@
 	{
 		"$className": "DataModel",
 
+		"Workspace":
+		{
+			"$className": "Workspace",
+
+			"Baseplate": {
+				"$className": "Part",
+
+				"$properties": {
+					"Size": [512, 20, 512],
+					"Position": [0, -20, 0],
+					"Color": [0.294, 0.592, 0.294],
+					"Anchored": true,
+					"Locked": true
+				}
+			}
+		},
+
 		"Players":
 		{
 			"$className": "Players",
